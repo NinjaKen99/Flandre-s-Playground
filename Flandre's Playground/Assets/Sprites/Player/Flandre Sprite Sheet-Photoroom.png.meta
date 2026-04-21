@@ -1,0 +1,1985 @@
+fileFormatVersion: 2
+guid: d87c382d200432543949d51f76e210e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flan_idle_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1189
+        width: 72
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4236111, y: 0.4351852}
+      border: {x: 18, y: 0, z: 29, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b911d46a89258142a82e587fee95615
+      internalID: 206796321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_idle_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1189
+        width: 71
+        height: 54
+      alignment: 9
+      pivot: {x: 0.41549295, y: 0.4351852}
+      border: {x: 17, y: 0, z: 29, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fb0e1124bded7478de9104ed077279
+      internalID: -95184210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_idle_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1189
+        width: 69
+        height: 54
+      alignment: 9
+      pivot: {x: 0.39855072, y: 0.4351852}
+      border: {x: 15, y: 0, z: 29, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08afbfef622f164fb680dbf68bed20e
+      internalID: 461406625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_idle_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1189
+        width: 64
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3828125, y: 0.4351852}
+      border: {x: 12, y: 0, z: 27, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b818ecdc3d310488de924cf12eb446
+      internalID: -1405273858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_idle_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1189
+        width: 67
+        height: 54
+      alignment: 9
+      pivot: {x: 0.41044775, y: 0.4351852}
+      border: {x: 15, y: 0, z: 27, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3a45181ff69b04f99cf372d54415e3
+      internalID: 1981607640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_idle_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1189
+        width: 69
+        height: 54
+      alignment: 9
+      pivot: {x: 0.39855072, y: 0.4351852}
+      border: {x: 15, y: 0, z: 29, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06c7b032fb71540aaf9e9873c0a19f
+      internalID: 2124416214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_idle_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1189
+        width: 71
+        height: 54
+      alignment: 9
+      pivot: {x: 0.41549295, y: 0.4351852}
+      border: {x: 17, y: 0, z: 29, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b67ebe18b0f8964194fc76df0c22e4a
+      internalID: 754533334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_idle_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1189
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.43835616, y: 0.4351852}
+      border: {x: 19, y: 0, z: 28, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ef7e063e0a3e9438a16e3938b44227
+      internalID: -850477295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_move_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1121
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.421875, y: 0.46153846}
+      border: {x: 12, y: 0, z: 22, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ea6bc49ff66e41a8aeda59bdeeda8
+      internalID: -2117367060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_move_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1121
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.421875, y: 0.46153846}
+      border: {x: 12, y: 0, z: 22, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049f48268fe32ca4c8ae489e75648329
+      internalID: -1066761325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_move_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1121
+        width: 65
+        height: 52
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.46153846}
+      border: {x: 13, y: 0, z: 23, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9306a36512073464e9cb79cfc9411c8c
+      internalID: -1826248834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_move_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1121
+        width: 65
+        height: 53
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.4528302}
+      border: {x: 13, y: 0, z: 23, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41b621205dfbe4ebdd6f0ce75f9c08
+      internalID: -1809834908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_turn_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1064
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.65625, y: 0.43269232}
+      border: {x: 18, y: 0, z: 3, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88eabb1b74c6049bd67118cacd08a7
+      internalID: -550346973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_turn_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1064
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6458333, y: 0.44117647}
+      border: {x: 17, y: 0, z: 3, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574bb63ebec2c414197ed638d83d3ca2
+      internalID: 802024554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_turn_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1064
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6458333, y: 0.43269232}
+      border: {x: 17, y: 0, z: 3, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4f83b18b21374dbcf75b1dcba3d83
+      internalID: 1909054273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_turn_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1064
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6458333, y: 0.4245283}
+      border: {x: 17, y: 0, z: 3, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c7e7b9ac32fc14a843a6f74d89c2ac
+      internalID: 706607006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_die_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 973
+        width: 67
+        height: 57
+      alignment: 9
+      pivot: {x: 0.3880597, y: 0.4122807}
+      border: {x: 13, y: 0, z: 28, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30441e384b75a7e45950b8a5f4334a83
+      internalID: 2031823925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 974
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60de1890ac9cb74e99356672b058428
+      internalID: -1139129658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1003
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c2a25c3ddc1d24ba28a1148eeb161c
+      internalID: 1886943207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 967
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9308c611f031ee042901200cef230605
+      internalID: -1997813298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 968
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b9e248fec5f734c86c4dc4d184ab98
+      internalID: 468841860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_lie_down
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 968
+        width: 55
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.6571429}
+      border: {x: 0, y: 12, z: 10, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6917b6a13236b4c9adf8294356b4eb
+      internalID: 724341577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 895
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e2adb93cf1fb419c22c2b582777ab
+      internalID: -1240165811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 815
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e1f675e11e24343bf8f1a8b2e55ae3
+      internalID: -1163182365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 815
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3eec24652c3004e9ed1690b0f10e22
+      internalID: 228407706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 815
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d61baa247f7e64eabf478b06e5fcaa
+      internalID: 502995109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 815
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec677d0bbcffb9499330a76620c2e40
+      internalID: 1240385128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 815
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361aed1c325b4c745b3d817b6c80862b
+      internalID: 1548984875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 815
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd36b3a624b7114a87129375b876159
+      internalID: -1758922326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 735
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03d28de4394f94dac93a17db822993
+      internalID: 1556289345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 735
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda17de2437637d4995d1258a79c180c
+      internalID: -922218172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_destroy
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 734
+        width: 68
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3529412, y: 0.44444445}
+      border: {x: 8, y: 0, z: 28, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b67d49b17a5dee4090b1f0df1689fb2
+      internalID: -184614885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 643
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23787e0e3a209d44aa71d142d1c7cf29
+      internalID: 1484956590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 644
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3115654039913e14b8a402a18e383c9f
+      internalID: -1764382213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 644
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6227fdfa5ea27241ad9e3e9ec7b9acb
+      internalID: -1739509296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 645
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed6006578029d49a0717ce19b264fa
+      internalID: -723594892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 558
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2096f213e056a4ba23c7765b5e9d1e
+      internalID: -2051177853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 521
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f552e7c603a4b4490ae89f2df784cb
+      internalID: 1065110146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 529
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c251739a774ff143afe5ad547563876
+      internalID: 1748129875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 538
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb494dfbf0c424888cb482eb03b1d1
+      internalID: -2005554874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 507
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10612b2289d63f47b48c7e9ae8e8a60
+      internalID: -593071230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 506
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec5791a636f384b8bd6c44ceb991d0
+      internalID: -335638732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 63
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6269841, y: 0.36666667}
+      border: {x: 28, y: 0, z: 12, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b1763c95fcd948bf24f3c073d18ff
+      internalID: -202380753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_attack_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 428
+        width: 80
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37288135}
+      border: {x: 29, y: 0, z: 29, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ab616ffba622428c9cb2623599926
+      internalID: -1457000380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_attack_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 428
+        width: 87
+        height: 59
+      alignment: 9
+      pivot: {x: 0.45402297, y: 0.3644068}
+      border: {x: 28, y: 0, z: 36, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66782285f83cdf478b82c457c185d3f
+      internalID: -248619128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_attack_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 428
+        width: 75
+        height: 55
+      alignment: 9
+      pivot: {x: 0.54, y: 0.3909091}
+      border: {x: 29, y: 0, z: 23, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c16576cb0dc164ab6808575b0e4b97
+      internalID: 498889310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_attack_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 336
+        width: 71
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5422535, y: 0.39814815}
+      border: {x: 26, y: 0, z: 20, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f74d54f06b51647a7c640487c47b7c
+      internalID: 1419285464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_attack_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 336
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.627907, y: 0.2654321}
+      border: {x: 38, y: 0, z: 16, w: 38}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd6ce14d569c34494201007acca17b
+      internalID: -1731295011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_attack_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 336
+        width: 82
+        height: 55
+      alignment: 9
+      pivot: {x: 0.64634144, y: 0.38181818}
+      border: {x: 38, y: 0, z: 14, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2e2e2c56a795b43ad9864fc12a00ed
+      internalID: -785184120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flan_attack_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 337
+        width: 79
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6329114, y: 0.38679245}
+      border: {x: 35, y: 0, z: 14, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00116c838b5ae1640a5c53fda3862665
+      internalID: 726882466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 312
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b95345e37222c84792e7ed08c576e75
+      internalID: -1873750417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 312
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996aa80da496d5409dba66c7f817323
+      internalID: -1461128105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 291
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5827ca22b84569341bf284e13ad57cc0
+      internalID: 520271732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 291
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a8d03cbc056b46acd5b30c16d4102
+      internalID: -1523873836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 227
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c72d5e80c86c0f4b833c8384a7cf7ec
+      internalID: -1346134998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 227
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f81781f9de11a4db6cbee2c25d9f06
+      internalID: -2138784836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 227
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5c53ba0e49f374a8c753c294cc982c
+      internalID: 1598724988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 227
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60222dd7bf192484593d3db5530c6d67
+      internalID: 1321391329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 227
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a56a3abf5e05b64bb028a816331aee2
+      internalID: 674712527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 227
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2247a0eaa4621534b84d208baa2819c0
+      internalID: -1735289515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8438735f9bef5b44b57164ff72635a5
+      internalID: 1428554823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 167
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250496b27ac1474baaaf0c9e9dda8d5
+      internalID: 340268404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 167
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c89c28305bbfd47ac8ac0ebeeb927e
+      internalID: 757666042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 136
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cadf16ed5a5d384bb24041097542b23
+      internalID: -1007254708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 78
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b25e35b8959b42ae865541d521a04
+      internalID: -1981569855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 78
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebaa1f9caeba947981066624c5142a
+      internalID: 545565775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 76
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22eccaa20135014ba8906062179cdba
+      internalID: -1736225093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 77
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a03966ab902248a3e1da59e1ca2d8
+      internalID: -639206636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 55
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f5fb89898e5a47a094eb66e758d3d
+      internalID: 279943872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 31
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c249b11c9e23c604ab6864d3d9c1f19f
+      internalID: 379552498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5573376622fb744896c01b2cce28bf
+      internalID: 43327510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 19
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a09e628a7b3244c88f3e5621d94572
+      internalID: 1303834318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 31
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e135bce404c9341860e93096201d56
+      internalID: -1570428747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f739170550136a144a2bb8562c51a0d7
+      internalID: -282186032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 31
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b4f22d4c74664183f4de762ee1382
+      internalID: -1209831287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 30
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af9a0242e52cfa47a98b1e0f8ce0502
+      internalID: -966574066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 28
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece2a537ba25044489422bcce3bc1b4
+      internalID: 1962550863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 31
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff903d781468446b34e010f561555d
+      internalID: 658646070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e7b498dbc69084f9743a3325b68ea0
+      internalID: 198066992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615583878da91c04a84d39cc7b80e776
+      internalID: -1928794109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 19
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f43565ff8fe1f64cbba8bf1f3814368
+      internalID: 1021925810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 19
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66e1c4c5b13a7a4fad785bb88b19d16
+      internalID: 1544448463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 19
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6545292823a3fd1488e4a7c655187b61
+      internalID: -1164285135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flandre Sprite Sheet-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 19
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf5ff46f1da11c47a7978dd7013497c
+      internalID: 493297455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flan_attack_1: -202380753
+      Flan_attack_2: -1457000380
+      Flan_attack_3: -248619128
+      Flan_attack_4: 498889310
+      Flan_attack_5: 1419285464
+      Flan_attack_6: -1731295011
+      Flan_attack_7: -785184120
+      Flan_attack_8: 726882466
+      Flan_destroy: -184614885
+      Flan_die_1: 2031823925
+      Flan_idle_1: 206796321
+      Flan_idle_2: -95184210
+      Flan_idle_3: 461406625
+      Flan_idle_4: -1405273858
+      Flan_idle_5: 1981607640
+      Flan_idle_6: 2124416214
+      Flan_idle_7: 754533334
+      Flan_idle_8: -850477295
+      Flan_lie_down: 724341577
+      Flan_move_1: -2117367060
+      Flan_move_2: -1066761325
+      Flan_move_3: -1826248834
+      Flan_move_4: -1809834908
+      Flan_turn_1: -550346973
+      Flan_turn_2: 802024554
+      Flan_turn_3: 1909054273
+      Flan_turn_4: 706607006
+      Flandre Sprite Sheet-Photoroom_0: 2009622513
+      Flandre Sprite Sheet-Photoroom_18: -265344481
+      Flandre Sprite Sheet-Photoroom_20: -1139129658
+      Flandre Sprite Sheet-Photoroom_21: 1886943207
+      Flandre Sprite Sheet-Photoroom_22: -1997813298
+      Flandre Sprite Sheet-Photoroom_23: 468841860
+      Flandre Sprite Sheet-Photoroom_25: -1240165811
+      Flandre Sprite Sheet-Photoroom_26: -356176043
+      Flandre Sprite Sheet-Photoroom_27: -1395678609
+      Flandre Sprite Sheet-Photoroom_28: -1163182365
+      Flandre Sprite Sheet-Photoroom_29: 228407706
+      Flandre Sprite Sheet-Photoroom_30: 502995109
+      Flandre Sprite Sheet-Photoroom_31: 1240385128
+      Flandre Sprite Sheet-Photoroom_32: 1548984875
+      Flandre Sprite Sheet-Photoroom_33: -1758922326
+      Flandre Sprite Sheet-Photoroom_34: -1604081598
+      Flandre Sprite Sheet-Photoroom_35: -247291327
+      Flandre Sprite Sheet-Photoroom_36: -1465522305
+      Flandre Sprite Sheet-Photoroom_37: 1556289345
+      Flandre Sprite Sheet-Photoroom_38: -922218172
+      Flandre Sprite Sheet-Photoroom_40: 618777062
+      Flandre Sprite Sheet-Photoroom_41: -460064326
+      Flandre Sprite Sheet-Photoroom_42: 1484956590
+      Flandre Sprite Sheet-Photoroom_43: -1764382213
+      Flandre Sprite Sheet-Photoroom_44: -1739509296
+      Flandre Sprite Sheet-Photoroom_45: -723594892
+      Flandre Sprite Sheet-Photoroom_46: -2051177853
+      Flandre Sprite Sheet-Photoroom_47: 1065110146
+      Flandre Sprite Sheet-Photoroom_48: 1748129875
+      Flandre Sprite Sheet-Photoroom_49: -2005554874
+      Flandre Sprite Sheet-Photoroom_50: -593071230
+      Flandre Sprite Sheet-Photoroom_51: -335638732
+      Flandre Sprite Sheet-Photoroom_60: -1873750417
+      Flandre Sprite Sheet-Photoroom_61: -1461128105
+      Flandre Sprite Sheet-Photoroom_62: 520271732
+      Flandre Sprite Sheet-Photoroom_63: -1523873836
+      Flandre Sprite Sheet-Photoroom_64: -1346134998
+      Flandre Sprite Sheet-Photoroom_65: -2138784836
+      Flandre Sprite Sheet-Photoroom_66: 1598724988
+      Flandre Sprite Sheet-Photoroom_67: 1321391329
+      Flandre Sprite Sheet-Photoroom_68: 674712527
+      Flandre Sprite Sheet-Photoroom_69: -1735289515
+      Flandre Sprite Sheet-Photoroom_70: 1428554823
+      Flandre Sprite Sheet-Photoroom_71: 340268404
+      Flandre Sprite Sheet-Photoroom_72: 757666042
+      Flandre Sprite Sheet-Photoroom_73: -1007254708
+      Flandre Sprite Sheet-Photoroom_74: -1981569855
+      Flandre Sprite Sheet-Photoroom_75: 545565775
+      Flandre Sprite Sheet-Photoroom_76: -1736225093
+      Flandre Sprite Sheet-Photoroom_77: -639206636
+      Flandre Sprite Sheet-Photoroom_78: 279943872
+      Flandre Sprite Sheet-Photoroom_79: 379552498
+      Flandre Sprite Sheet-Photoroom_80: 43327510
+      Flandre Sprite Sheet-Photoroom_81: 1303834318
+      Flandre Sprite Sheet-Photoroom_82: -1570428747
+      Flandre Sprite Sheet-Photoroom_83: -282186032
+      Flandre Sprite Sheet-Photoroom_84: -1209831287
+      Flandre Sprite Sheet-Photoroom_85: -966574066
+      Flandre Sprite Sheet-Photoroom_86: 1962550863
+      Flandre Sprite Sheet-Photoroom_87: 658646070
+      Flandre Sprite Sheet-Photoroom_88: 198066992
+      Flandre Sprite Sheet-Photoroom_89: -1928794109
+      Flandre Sprite Sheet-Photoroom_9: -1941964067
+      Flandre Sprite Sheet-Photoroom_90: 1021925810
+      Flandre Sprite Sheet-Photoroom_91: 1544448463
+      Flandre Sprite Sheet-Photoroom_92: -1164285135
+      Flandre Sprite Sheet-Photoroom_93: 493297455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

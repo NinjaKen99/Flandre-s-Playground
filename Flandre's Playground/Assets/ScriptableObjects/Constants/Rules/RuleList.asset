@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d37dc31e0fe6ba4498e2f7002e41d268, type: 3}
+  m_Name: RuleList
+  m_EditorClassIdentifier: 
+  playermove: {fileID: 11400000, guid: 02438de00b0b1ca48bc31905fbff9ffa, type: 2}
+  playerjump: {fileID: 11400000, guid: 71fc05ba4ef334d448d7322fc75f4a75, type: 2}
+  playerattack: {fileID: 11400000, guid: 3b5981a35ff42a748aa28d75c6c1d55a, type: 2}
+  kedamaHit: {fileID: 11400000, guid: d166fa2ca2627d24abab2245732292ea, type: 2}
+  kedamaDestroy: {fileID: 11400000, guid: ceae2923a0aaa874cb28ae71d31f0c01, type: 2}
+  aFairyHit: {fileID: 11400000, guid: d54017e4cf11d96469d0468efbb313b7, type: 2}
+  aFairyDestroy: {fileID: 11400000, guid: 2b33a2c2ffcbbb242af78d29ad590490, type: 2}
+  gFairyHit: {fileID: 11400000, guid: a8ce365ac5e672946b0064befba29c12, type: 2}
+  gFairyDestroy: {fileID: 11400000, guid: c7754bcaadca5264c81696939668c30d, type: 2}
